@@ -50,3 +50,9 @@ O gráfico que relaciona o tempo em relação ao tamanho da DFT é:
 
 
 ![Resultado da DFT do sinal x(t)](./DFT_TAMANHO.png "FFT Result")
+
+**Nota:** O código ainda requer testes para outros sinais de entrada.
+
+**Livro de apoio: Rychard G. Lyons, Understanding Digital
+Signal Processing, Third Edition, Chapter Three, The Discrete
+Fourier Transform**
