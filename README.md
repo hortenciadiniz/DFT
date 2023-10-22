@@ -4,6 +4,7 @@
 - Hortencia Diniz Dultra e Silva - 05/10/23
 
 In this case, a graph was requested that related the DTF size with your execution time.
+
 The Colaboratory was used to run the code made in python.
 
 # Build e Execução
