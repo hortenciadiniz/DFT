@@ -46,7 +46,7 @@ O resultado da operação de DFT é mostrado a seguir e, como esperado, a transf
 ![Resultado da DFT do sinal x(t)](./DFT_PHASE.png "FFT Result")
 
 
-O gráfico que relaciona o tempo em relação ao tempo da DFT é:
+O gráfico que relaciona o tempo em relação ao tamanho da DFT é:
 
 
 ![Resultado da DFT do sinal x(t)](./DFT_TAMANHO.png "FFT Result")
