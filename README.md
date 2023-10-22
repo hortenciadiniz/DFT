@@ -10,7 +10,7 @@ The Colaboratory was used to run the code made in python.
 # Build e Execução
 1. As bibliotecas 'numpy' e 'matplotlib.pyplot' para realizar cálculos e plotagem, respectivamente;
 
-2. Foi feito um teste para saber se o numero digitado estava em potencia de dois, caso contrario, use o método "Zero Pad";
+2. Foi feito um teste para saber se o numero digitado estava em potência de dois, caso contrário, use o método "Zero Pad";
 
 3. Dois arrays são criados e preenchidos com sequencias pares e impares do sinal
 
@@ -20,11 +20,9 @@ The Colaboratory was used to run the code made in python.
 
 6. Foram definidas as frequências f1 e f2 como 1KHz e 2KHz, respectivamente, que são as frequências das duas senoides que compõem o sinal de entrada.
 
-7. Foi calculado o vetor de frequência 'frequencies' correspondente à FFT usando a função np.fft.fftfreq. Isso nos fornece um vetor de frequência que corresponde aos coeficientes da FFT.
+7. A plotagem foi limitada para mostrar apenas os primeiros 0.004 segundos (4 períodos) do sinal.
 
-8. A plotagem foi limitada para mostrar apenas os primeiros 0.004 segundos (4 períodos) do sinal.
-
-9. Por fim, fiz a IDFT - Inverse Discret Fourier Transform - para saber se o sinal reconstruído a partir da frequência gerava o sinal de entrada.
+8. Por fim, fiz a IDFT - Inverse Discret Fourier Transform - para saber se o sinal reconstruído a partir da frequência gerava o sinal de entrada.
 
 # Exemplo de resultado
 
