@@ -18,7 +18,7 @@ The Colaboratory was used to run the code made in python.
 
 5. Foi criado um vetor de tempo t usando 'np.arange' que varia de 0 a 1 segundo com uma taxa de amostragem de 1/fs. Isso cria um vetor de tempo com pontos igualmente espaçados.
 
-6. Foram definidas as frequências f1 e f2 como 1KHz e 2KHz, respectivamente, que são as frequências das duas senoides que compõem o sinal de entrada.
+6. Foram definidas as frequências f1 e f2 como 1KHz e 2KHz, respectivamente, que são as frequências das duas senoides que compõem o sinal de entrada (este exemplo de sinal foi retirado do livro de apoio).
 
 7. A plotagem foi limitada para mostrar apenas os primeiros 0.004 segundos (4 períodos) do sinal.
 
